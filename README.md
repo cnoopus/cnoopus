@@ -1,4 +1,4 @@
-Hello there, I'm Dinda
+Hello there, I'm Dinda!
 
 - 👀 I’m interested in web design and data analytics
 - 🌱 I’m currently learning data analytics
